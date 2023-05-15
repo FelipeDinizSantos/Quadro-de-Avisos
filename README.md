@@ -1,0 +1,3 @@
+Este site é fruto de um projeto proposto nas aulas de Desenvolvimento de Sistemas, tem por objetivo criar uma especie de "quadro de avisos", onde ele seria usado tanto pelos alunos, quanto pelos agentes da escola (professores, coordenadores, terceiros etc) para que assim torne o ambiente escolar mais transparente e organizado a todos.
+Teve-se como foco o desenvolvimento de um site usando somente HTML e CSS, não podendo então se utilizar de outras tecnologias. Apesar da aparência e transições rusticas o site se mostra de facil vizualição, compreensão e uso, por parte do usuario final.
+Ressalta-se que este esta em processo de produção, sendo somente um esbolso do projeto final!
